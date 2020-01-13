@@ -77,7 +77,7 @@ body {
 
 /* Small Phones */
 @media (max-width: 640px) {
-  .calculator-grid {
+  .calculator-grid { 
       margin-left: 30px;
       margin-right: 30px;
   }
